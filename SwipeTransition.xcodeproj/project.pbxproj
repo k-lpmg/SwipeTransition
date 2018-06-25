@@ -60,6 +60,7 @@
 		247E68B01FF3466300617B12 /* SwipeBackContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247E68AF1FF3466300617B12 /* SwipeBackContext.swift */; };
 		24914077203B39B300D3E4CD /* Context.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24914076203B39B300D3E4CD /* Context.swift */; };
 		24914079203B475500D3E4CD /* TransitionHandleable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24914078203B475500D3E4CD /* TransitionHandleable.swift */; };
+		655AB8BE20D1F3DA00F2881E /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655AB8BD20D1F3DA00F2881E /* MasterViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -187,6 +188,7 @@
 		247E68AF1FF3466300617B12 /* SwipeBackContext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeBackContext.swift; sourceTree = "<group>"; };
 		24914076203B39B300D3E4CD /* Context.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Context.swift; sourceTree = "<group>"; };
 		24914078203B475500D3E4CD /* TransitionHandleable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionHandleable.swift; sourceTree = "<group>"; };
+		655AB8BD20D1F3DA00F2881E /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -341,6 +343,7 @@
 				2467A7E71FEFD393007A7AC9 /* Assets.xcassets */,
 				2467A7E91FEFD393007A7AC9 /* LaunchScreen.storyboard */,
 				2467A7EC1FEFD393007A7AC9 /* Info.plist */,
+				655AB8BD20D1F3DA00F2881E /* MasterViewController.swift */,
 			);
 			path = AutoExample;
 			sourceTree = "<group>";
@@ -770,6 +773,7 @@
 			files = (
 				2467A7E31FEFD393007A7AC9 /* PushTopVC.swift in Sources */,
 				2467A7E11FEFD393007A7AC9 /* AppDelegate.swift in Sources */,
+				655AB8BE20D1F3DA00F2881E /* MasterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
